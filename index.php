@@ -6,6 +6,7 @@
 	<title>Irlan Github Testimoni</title>
 </head>
 <body>
-	<h1>Hello World</h1>	
+	<h1>Hello World</h1>
+	<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem vero facilis quaerat id iusto ratione nihil officiis tempora incidunt dolor. Nemo maxime cumque, deleniti consectetur, iusto neque sunt minus fugit.</p>	
 </body>
 </html>
